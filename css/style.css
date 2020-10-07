@@ -865,7 +865,8 @@ body {
     width: 100%;
     min-height: 170px;
     padding: 18px 20px;
-    font-size: 15px; }
+    font-size: 15px;
+    resize: none; }
   .contact button {
     width: 180px;
     height: 54px;
